@@ -97,9 +97,9 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 7eaf3bc9665b03740be9349771cf2c9a, type: 3}
   - {fileID: 21300000, guid: 8bcb07d9c2c4c484caf61c33f48e3dd8, type: 3}
   - {fileID: 21300000, guid: be57094a84846274f8365205b4fdec95, type: 3}
-  - {fileID: 21300000, guid: e85a4f4a40f9cca409993136dabd3bcc, type: 3}
   - {fileID: 21300000, guid: fdf9505acc4050143af4484d372ca54a, type: 3}
   - {fileID: 21300000, guid: 0c6de69acca756c409be4810a8510ac5, type: 3}
+  - {fileID: 21300000, guid: 690b679a117c70445bdc1c4b520da9d7, type: 3}
   - {fileID: 21300000, guid: 22b707ba995056540acdd8a73724a22a, type: 3}
   - {fileID: 21300000, guid: 47684eba410fd484e912dee508527404, type: 3}
   - {fileID: 21300000, guid: f683841be7595e6438b943365a4d6279, type: 3}
@@ -180,9 +180,9 @@ SpriteAtlas:
   - WoodcutterAxe (Type=Weapon, Collection=Basic, Tags=Axe&1H)
   - MagicSilverRing
   - BanditLightArmor [Paint] (Type=Boots, Collection=Basic)
-  - BattleguardArmor (Type=Gloves, Collection=AbandonedWorkshop)
   - DarkMountain (Type=Armor, Collection=Thrones)
   - WoodenShield (Type=Shield, Collection=Basic)
+  - BattleguardArmor (Type=Gloves, Collection=AbandonedWorkshop)
   - MarauderBow (Type=Arrow, Collection=SpellMasters)
   - Scout [Paint] (Type=Gloves, Collection=Basic)
   - ManticoreHelmet (Type=Helmet, Collection=Pro)
