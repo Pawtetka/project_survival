@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Exp
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Creatures
+    uniqueID: 1981050747
+    locked: 0
+  - name: Environment
+    uniqueID: 2434859983
+    locked: 0
+  - name: Map
+    uniqueID: 2749926811
     locked: 0
